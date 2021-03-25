@@ -6,7 +6,7 @@ Delivery App using Elixir...
 - [x] Register Items
 - [x] Register Orders
 - [x] Save on Agents
-- [x] Generate Reports
+- [x] Generate Reports from orders on csv file
 - [x] Test All Funcionality
 
 ## Instalation
